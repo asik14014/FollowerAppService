@@ -1,0 +1,17 @@
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\InstagramSelenium.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\InstagramSelenium.pdb
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\FlwDatabase.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\InstagramModels.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\NLog.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\WebDriver.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\FlwDatabase.pdb
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\InstagramModels.pdb
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\NLog.xml
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\WebDriver.xml
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\obj\Debug\InstagramSelenium.csprojAssemblyReference.cache
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\obj\Debug\InstagramSelenium.csproj.CoreCompileInputs.cache
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\obj\Debug\InstagramSelenium.csproj.CopyComplete
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\obj\Debug\InstagramSelenium.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramSelenium\obj\Debug\InstagramSelenium.pdb

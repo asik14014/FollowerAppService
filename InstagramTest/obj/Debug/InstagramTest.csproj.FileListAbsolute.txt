@@ -1,0 +1,9 @@
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\bin\Debug\InstagramTest.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\bin\Debug\InstagramTest.pdb
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\obj\Debug\InstagramTest.csproj.CoreCompileInputs.cache
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\obj\Debug\InstagramTest.csproj.CopyComplete
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\obj\Debug\InstagramTest.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\obj\Debug\InstagramTest.pdb
+C:\Users\askhat.a\Desktop\Follower\InstagramTest\obj\Debug\InstagramTest.csprojAssemblyReference.cache
