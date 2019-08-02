@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <cookies_list>
+    <cookie user_name="ClothesInstaService" c_name="mid" c_value="XTUt_AALAAFCJn0BhXtwB1aZNM6v" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="csrftoken" c_value="72EKupyZ18XgZy2dwE1Ktp7rqyLYFhxl" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="rur" c_value="PRN" c_domain=".instagram.com" c_path="/" c_expiries="" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="ig_cb" c_value="1" c_domain="www.instagram.com" c_path="/" c_expiries="07/22/2119 15:31:33.000" c_secure="False" />
+    <cookie user_name="ClothesInstaService" c_name="urlgen" c_value="&quot;{\&quot;89.43.164.57\&quot;: 206026}:1hpP8e:ji3j0JjcaL5LRKOFteDcLWXfvlo&quot;" c_domain=".instagram.com" c_path="/" c_expiries="" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="ds_user_id" c_value="4807210437" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="rur" c_value="VLL" c_domain=".instagram.com" c_path="/" c_expiries="" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="shbid" c_value="19291" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="csrftoken" c_value="FLcq3MYSy8KofFF8dLRwGXvtr41wduui" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="sessionid" c_value="4807210437%3AocegFtHQDCQTuX%3A22" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="shbts" c_value="1563766642.3043637" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="ig_cb" c_value="1" c_domain="www.instagram.com" c_path="/" c_expiries="07/22/2119 15:31:33.000" c_secure="True" />
+    <cookie user_name="ClothesInstaService" c_name="mid" c_value="XTUt_AALAAFCJn0BhXtwB1aZNM6v" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="InstaServiceFS" c_name="mid" c_value="XTUv2gALAAHwbpp40pk62dRkNJOg" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="InstaServiceFS" c_name="csrftoken" c_value="3id36Yy7veGTDlmmeMVlsOYeaLB4V3XP" c_domain=".instagram.com" c_path="/" c_expiries="12/31/9999 23:59:59.999" c_secure="True" />
+    <cookie user_name="InstaServiceFS" c_name="rur" c_value="PRN" c_domain=".instagram.com" c_path="/" c_expiries="" c_secure="True" />
+    <cookie user_name="InstaServiceFS" c_name="ig_cb" c_value="1" c_domain="www.instagram.com" c_path="/" c_expiries="07/22/2119 15:39:09.000" c_secure="False" />
+  </cookies_list>
+</body>

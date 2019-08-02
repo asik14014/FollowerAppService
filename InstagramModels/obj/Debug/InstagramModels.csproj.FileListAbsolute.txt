@@ -1,0 +1,5 @@
+C:\Users\askhat.a\Desktop\Follower\InstagramModels\bin\Debug\InstagramModels.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramModels\bin\Debug\InstagramModels.pdb
+C:\Users\askhat.a\Desktop\Follower\InstagramModels\obj\Debug\InstagramModels.csproj.CoreCompileInputs.cache
+C:\Users\askhat.a\Desktop\Follower\InstagramModels\obj\Debug\InstagramModels.dll
+C:\Users\askhat.a\Desktop\Follower\InstagramModels\obj\Debug\InstagramModels.pdb
